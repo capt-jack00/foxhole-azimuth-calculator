@@ -1,0 +1,14 @@
+C:\_repos\azi-calculator\azimuth-calculator\bin\Debug\net8.0\azimuth-calculator.exe
+C:\_repos\azi-calculator\azimuth-calculator\bin\Debug\net8.0\azimuth-calculator.deps.json
+C:\_repos\azi-calculator\azimuth-calculator\bin\Debug\net8.0\azimuth-calculator.runtimeconfig.json
+C:\_repos\azi-calculator\azimuth-calculator\bin\Debug\net8.0\azimuth-calculator.dll
+C:\_repos\azi-calculator\azimuth-calculator\bin\Debug\net8.0\azimuth-calculator.pdb
+C:\_repos\azi-calculator\azimuth-calculator\obj\Debug\net8.0\azimuth-calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\_repos\azi-calculator\azimuth-calculator\obj\Debug\net8.0\azimuth-calculator.AssemblyInfoInputs.cache
+C:\_repos\azi-calculator\azimuth-calculator\obj\Debug\net8.0\azimuth-calculator.AssemblyInfo.cs
+C:\_repos\azi-calculator\azimuth-calculator\obj\Debug\net8.0\azimuth-calculator.csproj.CoreCompileInputs.cache
+C:\_repos\azi-calculator\azimuth-calculator\obj\Debug\net8.0\azimuth-calculator.dll
+C:\_repos\azi-calculator\azimuth-calculator\obj\Debug\net8.0\refint\azimuth-calculator.dll
+C:\_repos\azi-calculator\azimuth-calculator\obj\Debug\net8.0\azimuth-calculator.pdb
+C:\_repos\azi-calculator\azimuth-calculator\obj\Debug\net8.0\azimuth-calculator.genruntimeconfig.cache
+C:\_repos\azi-calculator\azimuth-calculator\obj\Debug\net8.0\ref\azimuth-calculator.dll
